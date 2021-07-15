@@ -11,8 +11,8 @@
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
-###Conhecimento nas linguagens:
-![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+#### Conhecimento nas linguagens:
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) />
 </div>
 
 
