@@ -1,16 +1,14 @@
-### Hi there 👋
+## Olá! Bem vindo ao meu perfil! Como você está? 👋
+![Commits](https://github-readme-stats.vercel.app/api?username=Yehokhananlima)
 
-<!--
-**Yehokhananlima/Yehokhananlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Olá eu sou o Yoha!
 
-Here are some ideas to get you started:
+- 🚀 Cursando o Bootcamp da Generation Brasil de Developer full stack Java
+- 💻 Criando várias coisas com o Eclipse
+- ✨ Aprendendo e evoluindo sempre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yehokhanan-lima-29228b189/)](https://www.linkedin.com/in/yehokhanan-lima-29228b189/) [![Linkedin Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&labelColor=violet&logo=instagram&logoColor=white&link=https://instagram.com/yoha_nann)](https://instagram.com/yoha_nann/)
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+ 
+</div>
