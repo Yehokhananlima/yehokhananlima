@@ -5,7 +5,9 @@
 
 - 🚀 Cursando o Bootcamp da Generation Brasil de Developer full stack Java
 
-[![Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yehokhanan-lima-29228b189/)](https://www.linkedin.com/in/yehokhanan-lima-29228b189/) [![Linkedin Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&labelColor=violet&logo=instagram&logoColor=white&link=https://instagram.com/yoha_nann)](https://instagram.com/yoha_nann/)
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&labelColor=blue&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yehokhanan-lima-29228b189/)](https://www.linkedin.com/in/yehokhanan-lima-29228b189/) 
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&labelColor=violet&logo=instagram&logoColor=white&link=https://instagram.com/yoha_nann)](https://instagram.com/yoha_nann/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoha.limaa@gmail.com)](mailto:yoha.limaa@gmail.com)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
