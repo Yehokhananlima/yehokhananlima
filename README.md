@@ -10,5 +10,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:yoha.limaa@gmail.com)](mailto:yoha.limaa@gmail.com)
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
 </div>
+#### Conhecimento nas linguagens:
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+
