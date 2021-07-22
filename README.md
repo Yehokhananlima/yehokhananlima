@@ -4,9 +4,8 @@
 - 🚀 Cursando o Bootcamp da Generation Brasil de Developer full stack Java
 <div>
  <a href="https://github.com/Yehokhananlima">
- <img height="180em" src="[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api? 
-  Username = anuraghazra & show_icons = true & theme = radical ))](https://github.com/anuraghazra/github-readme-stats)"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehokh[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)ananlima&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?Yehokhananlima=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehokhananlima&layout=compact&langs_count=7&theme=dracula"/>
  </div>
  <div style="display: inline_block"><br>
  <img align="right" alt="yoha-full" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif">
