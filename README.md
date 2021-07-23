@@ -15,7 +15,7 @@
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
  
- ### Siga os meus contatos :)
+ ### Contact me :)
 <div>
  <a href="https://instagram.com/yoha_nann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
  
@@ -25,7 +25,7 @@
   
  <a href="https://www.linkedin.com/in/yehokhanan-lima-29228b189" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
- #### Tenho conhecimento na linguagem:
+ #### I have knowledge in language:
  ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java) 
 </div>
  
