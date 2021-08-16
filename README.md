@@ -1,7 +1,7 @@
 
 ## hi! I'm  Yoha :)
 
-- 🚀 Cursando o Bootcamp da Generation Brasil de Developer full stack Java
+- 🚀 Cursando o Bootcamp da Generation Brasil de Dev full stack Java junior
 <div>
  <a href="https://github.com/Yehokhananlima">
  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yehokhananlima&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
