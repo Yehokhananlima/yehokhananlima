@@ -8,7 +8,7 @@
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yehokhananlima&layout=compact&langs_count=7&theme=gotham"/>
  </div>
  <div style="display: inline_block"><br>
- <img align="right" alt="yoha-full" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="50%" height="50%">
+ <img align="right" alt="yoha-full" src="https://media.giphy.com/media/ASd0Ukj0y3qMM/giphy.gif" width="30%" height="30%">
 </div>
  
  #### Languages and tools:
