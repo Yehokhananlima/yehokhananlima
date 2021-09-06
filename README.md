@@ -14,12 +14,13 @@
  
  
  <div align="center">
- ###Contact me :) 
+ Contact me :) 
   
   #### Languages and tools:
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![mysql](https://img.shi Contact me :) elds.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
   
+   Contact me :) 
   <div style="display:flex;">
  <a href="https://instagram.com/yoha_nann" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"  target="_blank"></a>
  
