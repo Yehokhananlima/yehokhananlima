@@ -44,5 +44,5 @@
 </div>
 
 
-![snake animation](https://github.com/<seu Yehokhananlima>/<seu Yehokhananlima>/blob/output/github-contribution-grid-snake2.svg)
+![snake animation](https://github.com/< Yehokhananlima>/< Yehokhananlima>/blob/output/github-contribution-grid-snake2.svg)
  
